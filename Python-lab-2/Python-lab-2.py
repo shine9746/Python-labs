@@ -1,4 +1,4 @@
-#catch number from user and shows messages according to whether the number is even or odd
+#Fetch number from user and shows messages according to whether the number is even or odd
 
 name = input("Enter user name")
 
