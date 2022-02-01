@@ -2,7 +2,7 @@ import random
 
 userinput = int(input("Enter a number : "))
       
-userguess= random.randint(1, 10)
+userguess= random.randint(1, 9)
 
 
 while userguess != userinput and userguess != "break":
